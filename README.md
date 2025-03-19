@@ -10,6 +10,6 @@ I want to contribute to awesome open source projects.
 
 → [Personal website 🌐](https://markusdick.de) 
 
-→ [@balkonbewohner on twitter 🐦](https://twitter.com/balkonbewohner)
+→ [@balkonbewohner on Mastodon 🐘](https://mastodon.social/@balkonbewohner)
 
 ### Have a great day. 👏
